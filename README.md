@@ -11,12 +11,13 @@ Compreenda a proposta da ONU e engaje-se nessa oportunidade de contribuir com as
 
 Analise os 17 objetivos e escolha quais metas podem ser aderentes à sua proposta e ao seu projeto. Para isso, clique no ícone de cada objetivo e observe a listagem de metas disponível em cada um. É necessário que você escolha pelo menos uma meta. Pode ser que você encontre metas aderentes à sua proposta em diferentes objetivos, mas não se restrinja. Pode escolher dessa forma e mantenha o foco da essência de sua proposta.
 
-Feito isso, liste suas escolhas. Essa informação deverá ser declarada em seu Projeto e Relatório de Atividades Interdisciplinares Extensionistas.
+Feito isso, liste suas escolhas. Essa informação deverá ser declarada em sua proposta de Projeto e Relatório de Atividades Interdisciplinares Extensionistas.
 
- 
+Utilize o guia orientativo a seguir para definir sua proposta de projeto: 
+
 LISTAR METAS DOS ODS ADERENTES AO SEU PROJETO
  
-DEFINA OS OBJETIVOS DA PROPOSTA E ALINHE AOS ODS.
+DEFINIR OS OBJETIVOS DA PROPOSTA E ALINHAR AOS ODS.
 
 Etapas da Metodologia de Design Thinking:
 
