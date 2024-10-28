@@ -1,11 +1,11 @@
 # Repositório da disciplina de Projeto Interdisciplinar I - Gestão da Tecnologia da Informação
-Repositório da disciplina de Projeto Interdisciplinar I
 
 Ementa:
 Articulação entre os componentes cursados a fim de favorecer a construção de conhecimentos e habilidades necessárias para a prática da Gestão da Tecnologia da Informação. O Projeto interdisciplinar será conduzido de forma integrada por todos os professores das disciplinas envolvidas. Concepção de projetos de Tecnologia da Informação. Compreensão de equipes de Tecnologia da Informação.
 
-O estudante poderá desenvolver habilidades e capacidade para conduzir atividades referentes à compreensão da realidade social, ser capaz de reconhecer as necessidades dos usuários, adotar perspectivas interdisciplinares em sua prática, considerar aspectos políticos, econômicos, sociais do meio em que está inserido, direcionando suas ações para a transformação da realidade e para o desenvolvimento social. Soft Skills desenvolvidas: criatividade e inovação, comunicação interpessoal, planejamento e organização
+O estudante desenvolverá habilidades e capacidade para conduzir atividades referentes à compreensão da realidade social, ser capaz de reconhecer as necessidades dos usuários, adotar perspectivas interdisciplinares em sua prática, considerar aspectos políticos, econômicos, sociais do meio em que está inserido, direcionando suas ações para a transformação da realidade e para o desenvolvimento social. Soft Skills: criatividade e inovação, comunicação interpessoal, planejamento e organização
 
+----------------------------
 Antes de definir sua proposta, explore os Objetivos de Desenvolvimento Sustentável (ODS) da Organização das Nações Unidas (ONU) no link https://brasil.un.org/pt-br/sdgs. 
 Compreenda a proposta da ONU e engaje-se nessa oportunidade de contribuir com as metas de um organismo internacional tão importante ao mesmo tempo em que participa de soluções de seu contexto!
 
