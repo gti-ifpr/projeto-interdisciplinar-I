@@ -1,10 +1,10 @@
 # Repositório da disciplina de Projeto Interdisciplinar I - Gestão da Tecnologia da Informação
 
-## 1. **Ementa**
+### 1. **Ementa**
 Articulação entre os componentes cursados a fim de favorecer a construção de conhecimentos e habilidades necessárias para a prática da Gestão da Tecnologia da Informação. O Projeto interdisciplinar será conduzido de forma integrada por todos os professores das disciplinas envolvidas. Concepção de projetos de Tecnologia da Informação. Compreensão de equipes de Tecnologia da Informação.
 
 
-## 2. **Objetivos**
+### 2. **Objetivos**
 Desenvolver um projeto interdisciplinar em Gestão da Tecnologia da Informação que promova a integração entre os conhecimentos adquiridos nas disciplinas do curso, alinhado aos ODS da ONU e atendendo à curricularização da extensão.
 
 ### 3. **Conteúdos**			
@@ -71,7 +71,16 @@ LAUDON, Kenneth C.; LAUDON, Jane P. Sistemas de Informação Gerenciais. Pearson
 SILVA, Luis Claudio Sant’Anna. Gestão de Projetos em TI: Teoria e Prática para Profissionais do Futuro. Alta Books, 2019.
 PACHECO, Rogério. Sustentabilidade e Tecnologia da Informação: Práticas para a Transformação Digital Sustentável. Campus, 2021.
 
+## **Cronograma**
 
+Atividade
+Introdução ao Projeto Interdisciplinar e Formação das Equipes
+Workshops de Metodologias de Gestão de Projetos e Alinhamento com os ODS
+Desenvolvimento dos Projetos em Campo (Coleta de Dados e Início do Projeto)
+Execução dos Projetos com orientação dos professores
+Avaliação Parcial e Ajustes nos Projetos (documentos de Projeto e Resumo Expandido)
+Apresentação Final dos Projetos
+Feedback Geral e Reflexão sobre o Aprendizado
 
 ----------------------------
 
