@@ -43,7 +43,6 @@ A disciplina será conduzida por meio de atividades práticas, com base em metod
 - Reuniões de equipe semanais para acompanhamento dos projetos.
 - Avaliação e feedback contínuo dos professores das disciplinas envolvidas.
 - Exemplos de projetos bem-sucedidos que uniram agilidade e inclusão social
----
 
 ### 5. **Avaliação**
 
@@ -71,16 +70,17 @@ LAUDON, Kenneth C.; LAUDON, Jane P. Sistemas de Informação Gerenciais. Pearson
 SILVA, Luis Claudio Sant’Anna. Gestão de Projetos em TI: Teoria e Prática para Profissionais do Futuro. Alta Books, 2019.
 PACHECO, Rogério. Sustentabilidade e Tecnologia da Informação: Práticas para a Transformação Digital Sustentável. Campus, 2021.
 
+---
+
 ## **Cronograma**
 
-Atividade
-Introdução ao Projeto Interdisciplinar e Formação das Equipes
-Workshops de Metodologias de Gestão de Projetos e Alinhamento com os ODS
-Desenvolvimento dos Projetos em Campo (Coleta de Dados e Início do Projeto)
-Execução dos Projetos com orientação dos professores
-Avaliação Parcial e Ajustes nos Projetos (documentos de Projeto e Resumo Expandido)
-Apresentação Final dos Projetos
-Feedback Geral e Reflexão sobre o Aprendizado
+- Introdução ao Projeto Interdisciplinar e Formação das Equipes
+- Workshops de Metodologias de Gestão de Projetos e Alinhamento com os ODS
+- Desenvolvimento dos Projetos em Campo (Coleta de Dados e Início do Projeto)
+- Execução dos Projetos com orientação dos professores
+- Avaliação Parcial e Ajustes nos Projetos (documentos de Projeto e Resumo Expandido)
+- Apresentação Final dos Projetos
+- Feedback Geral e Reflexão sobre o Aprendizado
 
 ----------------------------
 
