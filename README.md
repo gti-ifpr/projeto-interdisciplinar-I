@@ -34,9 +34,44 @@ c) Marketing Digital: identidade visual do produto, identificação do público 
 - Gestão de conflitos e comunicação eficaz.			
 - Como práticas ágeis podem ser aplicadas para promover a diversidade e o respeito às diferenças 			
 
-## Um Pouco da Metodologia
+### 4. **Metodologia**
+A disciplina será conduzida por meio de atividades práticas, com base em metodologias ativas e colaborativas. Os alunos participarão de projetos reais e atuarão em equipes interdisciplinares. A integração entre as disciplinas será fundamental para que os alunos compreendam a aplicação dos conceitos teóricos em um contexto prático portanto o projeto interdisciplinar será conduzido de forma integrada pelos professores das disciplinas envolvidas, com ênfase na concepção de projetos de TI, no desenvolvimento de competências colaborativas, de respeito aos direitos humanos, uso de comunicação não violenta e resolução de conflitos em equipes multiculturais e multiétcnicas. O projeto estará alinhado aos Objetivos de Desenvolvimento Sustentável (ODS) da ONU, promovendo a curricularização da extensão e a integração com a comunidade externa.
 
-Design Thinking - Design Centrado no Usuário - Lean Inception
+- Aulas expositivas para introdução de conceitos-chave
+- Workshops e oficinas para desenvolvimento de ferramentas e metodologias.
+- Trabalho em campo em parceria com a comunidade e organizações externas.
+- Reuniões de equipe semanais para acompanhamento dos projetos.
+- Avaliação e feedback contínuo dos professores das disciplinas envolvidas.
+- Exemplos de projetos bem-sucedidos que uniram agilidade e inclusão social
+---
+
+### 5. **Avaliação**
+
+A avaliação será contínua e processual, considerando tanto os aspectos individuais quanto coletivos dos alunos na execução dos projetos. Serão avaliados os seguintes itens:
+
+1. Participação e engajamento nas atividades interdisciplinares;
+2. Desenvolvimento do projeto interdisciplinar, com foco nos seguintes critérios:
+• Alinhamento com os ODS.
+• Impacto social e ambiental.
+• Qualidade técnica da solução de TI.
+3. Trabalho em equipe e gestão de conflitos;
+4. Apresentação final do projeto e resumo expandido.
+
+### 6. **Referências Bibliográficas**
+
+6.1 Bibliografia Básica
+
+ONU. Agenda 2030 para o Desenvolvimento Sustentável. ONU, 2015.
+PMBOK Guide. Guia do Conjunto de Conhecimentos em Gerenciamento de Projetos. Project Management Institute, 2021.
+Schwaber, Ken, e Sutherland, Jeff. Scrum: A Arte de Fazer o Dobro do Trabalho na Metade do Tempo. Portfolio-Penguin, 2014.
+
+6.2 Bibliografia Complementar
+
+LAUDON, Kenneth C.; LAUDON, Jane P. Sistemas de Informação Gerenciais. Pearson, 2020.
+SILVA, Luis Claudio Sant’Anna. Gestão de Projetos em TI: Teoria e Prática para Profissionais do Futuro. Alta Books, 2019.
+PACHECO, Rogério. Sustentabilidade e Tecnologia da Informação: Práticas para a Transformação Digital Sustentável. Campus, 2021.
+
+
 
 ----------------------------
 
